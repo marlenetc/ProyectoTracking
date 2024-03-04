@@ -1,0 +1,8 @@
+com\springboot\demoMongoDB\DemoMongoDbApplication.class
+com\springboot\demoMongoDB\model\Customer.class
+com\example\accessingdatamongodb\CustomerRepository.class
+com\example\accessingdatamongodb\AccessingDataMongodbApplication.class
+com\example\accessingdatamongodb\Customer.class
+com\example\accessingdatamongodb\CustomerController.class
+com\springboot\demoMongoDB\controller\CustomerController.class
+com\springboot\demoMongoDB\repository\CustomerRepository.class
